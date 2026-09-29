@@ -38,6 +38,11 @@ another language model.
 <td>Lets agents exchange messages without exchanging data: a deterministic egress filter plus local and spool transports.</td>
 <td><a href="https://github.com/sokar-ai/sokar-message-sluice/actions/workflows/build.yml"><img src="https://github.com/sokar-ai/sokar-message-sluice/actions/workflows/build.yml/badge.svg" alt="Build"></a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/sokar-ai/sokar-message-matrix">sokar-message-matrix</a></td>
+<td>The Matrix transport: a project's room, where tasks talk.</td>
+<td>&mdash;</td>
+</tr>
 <tr><th colspan="3" align="left">Frontend</th></tr>
 <tr>
 <td><a href="https://github.com/sokar-ai/sokar-frontend">sokar-frontend</a></td>
